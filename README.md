@@ -1,10 +1,11 @@
 # PyTorch Learning
  
-- This repo will go through PyTorch fundamentals as detailed as possible for convenient review.
+- This repo goes through PyTorch fundamentals as detailed as possible for convenient review.
 - The repo is code-oriented, and the codes are heavily based on the course [Learn PyTorch for Deep Learning: Zero to Mastery book](https://www.learnpytorch.io/). For more code contents, the [PyTorch official document](https://pytorch.org/docs/stable/index.html) and the course are highly recommended. For more mathematical principles, the book, [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/), is attractive.
 
 ## Content
 The codes show up in interactive Jupyter Notebook format. The notebook format combines texts and codes and is convenient to run and debug the results.
+
 The contents are divided into different parts.
 - Each part highlights a specific domain of PyTorch. Hence this repo can be used as a PyTorch cheatsheet. 
 - Moreover, hope that after going through these notebooks carefully, the whole landscape of PyTorch fundamentals will stay in the brain so this repo will never be used again.
