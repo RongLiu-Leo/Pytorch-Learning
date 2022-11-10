@@ -10,9 +10,8 @@ The contents are divided into different parts.
 - Each part highlights a specific domain of PyTorch. Hence this repo can be used as a PyTorch cheatsheet. 
 - Moreover, hope that after going through these notebooks carefully, the whole landscape of PyTorch fundamentals will stay in the brain so this repo will never be used again.
 
-1. Pytorch
-2. pytorch
-3. pytorch
+1. [1. PyTorch Fundamentals](https://github.com/RongLiu-Leo/Pytorch-Learning/blob/main/1.PyTorch_Fundamentals.ipynb)
+
 
 
 
